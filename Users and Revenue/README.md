@@ -6,7 +6,7 @@
 The dashboard provides insights into the performance of the Flood-It! game over a selected 7-day period. It consists of three main pages:
 
 - Overview:
-A summary of key metrics such as active users, new users, removed users, crash users, and revenue streams (total revenue, ad revenue, and in-app purchase revenue). It also highlights trends in user activity and revenue over time for a quick snapshot of the game's overall performance.
+A summary of key metrics such as active users, new users, removed users, and revenue streams (total revenue, ad revenue, and in-app purchase revenue). It also highlights trends in user activity and revenue over time for a quick snapshot of the game's overall performance.
 
 - Revenue:
 Focuses on monetization, showcasing revenue trends, ad impressions, and in-app purchase data. It provides insights into the game's financial performance.

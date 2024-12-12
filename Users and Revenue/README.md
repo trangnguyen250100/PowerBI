@@ -2,6 +2,7 @@
 - Flood-It! is a puzzle game available on both Android and iOS platforms. The app uses the standard Google Analytics gaming app implementation through Firebase. The Flood-It dataset, available through the firebase-public-project BigQuery project, contains a sample of obfuscated BigQuery event export data for 114 days. For this analysis, I extracted a 7-day sample.
   
 **2. Output (Dashboard)**
+
 The dashboard provides insights into the performance of the Flood-It! game over a selected 7-day period. It consists of three main pages:
 
 - Overview:

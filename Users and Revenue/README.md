@@ -14,7 +14,7 @@ Focuses on monetization, showcasing revenue trends, ad impressions, and in-app p
 - Users:
 Explores user engagement and behavior, including metrics like active users, new users, removed users, and crash users. 
 
-The dashboard is designed to offer a comprehensive yet user-friendly view of the game's performance metrics and trends.
+The dashboard is designed to offer a comprehensive view of the game's performance metrics and trends.
 
 
 
